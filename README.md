@@ -1,7 +1,7 @@
 # FlowSync Landing Page
 
 <div align="center">
-  <img src="docs/flowsync-landing.png" alt="FlowSync Landing Page" width="100%">
+  <img src="docs/flowsync-hero-live.png" alt="FlowSync Landing Page" width="100%">
   
   <h3>🚀 Modern SaaS Landing Page</h3>
   <p>A premium, conversion-optimized landing page built with React, TypeScript, and Tailwind CSS</p>
