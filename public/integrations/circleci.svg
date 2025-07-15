@@ -1,0 +1,12 @@
+<svg width="60" height="40" viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- CircleCI Logo -->
+  <rect width="60" height="40" rx="4" fill="#343434"/>
+  <g transform="translate(30, 20)">
+    <!-- Outer circle -->
+    <circle cx="0" cy="0" r="12" fill="none" stroke="#ffffff" stroke-width="2"/>
+    <!-- Inner circle with gap (the signature CircleCI design) -->
+    <path d="M-6 0a6 6 0 1 1 12 0" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+    <!-- Center dot -->
+    <circle cx="0" cy="0" r="2" fill="#ffffff"/>
+  </g>
+</svg>

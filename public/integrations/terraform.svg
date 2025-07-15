@@ -1,0 +1,19 @@
+<svg width="60" height="40" viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Terraform Logo -->
+  <rect width="60" height="40" rx="4" fill="#7B42BC"/>
+  <g transform="translate(30, 20)">
+    <!-- Terraform "T" shape with geometric pattern -->
+    <g fill="#ffffff">
+      <!-- Left vertical bar -->
+      <path d="M-12 -10v8l4 2.3v-8l-4 -2.3z"/>
+      <!-- Top horizontal bars -->
+      <path d="M-12 -10l4 2.3l4 -2.3v-4l-4 -2.3l-4 2.3v4z"/>
+      <path d="M-4 -10l4 2.3l4 -2.3v-4l-4 -2.3l-4 2.3v4z"/>
+      <path d="M4 -10l4 2.3l4 -2.3v-4l-4 -2.3l-4 2.3v4z"/>
+      <!-- Center vertical bar -->
+      <path d="M-4 -6v12l4 2.3v-12l-4 -2.3z"/>
+      <!-- Right accent -->
+      <path d="M4 2v4l4 2.3v-4l-4 -2.3z"/>
+    </g>
+  </g>
+</svg>

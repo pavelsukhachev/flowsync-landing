@@ -1,0 +1,29 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- EduLearn - Education tech with book/graduation cap hybrid -->
+  <defs>
+    <linearGradient id="eduGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Logo Mark - Abstract book with graduation cap -->
+  <g transform="translate(10, 8)">
+    <!-- Book base -->
+    <path d="M2 16 L2 8 C2 7 3 6 4 6 L10 6 L10 20 L4 20 C3 20 2 19 2 18 Z" 
+          fill="url(#eduGradient)" opacity="0.8"/>
+    <path d="M18 16 L18 8 C18 7 17 6 16 6 L10 6 L10 20 L16 20 C17 20 18 19 18 18 Z" 
+          fill="url(#eduGradient)"/>
+    <!-- Graduation cap on top -->
+    <path d="M10 2 L16 5 L10 8 L4 5 Z" 
+          fill="#7c3aed"/>
+    <!-- Tassel -->
+    <line x1="10" y1="2" x2="12" y2="0" stroke="#7c3aed" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="12" cy="0" r="1" fill="#7c3aed"/>
+  </g>
+  
+  <!-- Company Name -->
+  <text x="35" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600">
+    <tspan fill="#1e293b">Edu</tspan><tspan fill="#8b5cf6">Learn</tspan>
+  </text>
+</svg>

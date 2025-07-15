@@ -1,0 +1,23 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- HealthPlus - Healthcare tech with modern cross design -->
+  <defs>
+    <linearGradient id="healthGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Logo Mark - Modern medical cross with rounded corners -->
+  <g transform="translate(10, 10)">
+    <!-- Background circle -->
+    <circle cx="10" cy="10" r="10" fill="#fee2e2"/>
+    <!-- Medical cross with rounded edges -->
+    <path d="M10 4 C9.5 4 9 4.5 9 5 L9 9 L5 9 C4.5 9 4 9.5 4 10 C4 10.5 4.5 11 5 11 L9 11 L9 15 C9 15.5 9.5 16 10 16 C10.5 16 11 15.5 11 15 L11 11 L15 11 C15.5 11 16 10.5 16 10 C16 9.5 15.5 9 15 9 L11 9 L11 5 C11 4.5 10.5 4 10 4 Z" 
+          fill="url(#healthGradient)"/>
+  </g>
+  
+  <!-- Company Name -->
+  <text x="35" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">
+    <tspan fill="#1e293b">Health</tspan><tspan fill="#ef4444">Plus</tspan>
+  </text>
+</svg>

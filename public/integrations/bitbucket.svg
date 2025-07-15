@@ -1,0 +1,11 @@
+<svg width="60" height="40" viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bitbucket Logo -->
+  <rect width="60" height="40" rx="4" fill="#0052CC"/>
+  <g transform="translate(30, 20)">
+    <!-- Bitbucket infinity-like symbol -->
+    <path d="M-10 -8c-0.5 0 -1 0.4 -1 1l2 14c0.1 0.5 0.5 0.9 1 0.9h16c0.5 0 0.9 -0.4 1 -0.9l2 -14c0 -0.6 -0.5 -1 -1 -1h-20zm6 5h8l-1 6h-6l-1 -6z" fill="#ffffff"/>
+    <!-- Center dots forming the Bitbucket shape -->
+    <circle cx="-4" cy="0" r="2" fill="#0052CC"/>
+    <circle cx="4" cy="0" r="2" fill="#0052CC"/>
+  </g>
+</svg>

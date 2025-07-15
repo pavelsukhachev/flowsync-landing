@@ -1,0 +1,35 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- StartupX - Dynamic startup with rocket/X fusion -->
+  <defs>
+    <linearGradient id="startupGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#be185d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Logo Mark - Abstract rocket forming an X shape -->
+  <g transform="translate(10, 8)">
+    <!-- Rocket body forming X -->
+    <path d="M10 2 L6 6 L2 10 L6 14 L10 10 L14 14 L18 10 L14 6 Z" 
+          fill="url(#startupGradient)" 
+          opacity="0.9"/>
+    <!-- Rocket tip highlight -->
+    <path d="M10 2 L7 5 L10 8 L13 5 Z" 
+          fill="#fce7f3"/>
+    <!-- Exhaust flames -->
+    <path d="M6 14 L4 18 M10 10 L10 14 M14 14 L16 18" 
+          stroke="#ec4899" 
+          stroke-width="2" 
+          stroke-linecap="round" 
+          opacity="0.6"/>
+    <!-- Speed lines -->
+    <line x1="0" y1="6" x2="3" y2="6" stroke="#ec4899" stroke-width="1" opacity="0.4"/>
+    <line x1="0" y1="10" x2="3" y2="10" stroke="#ec4899" stroke-width="1" opacity="0.4"/>
+    <line x1="0" y1="14" x2="3" y2="14" stroke="#ec4899" stroke-width="1" opacity="0.4"/>
+  </g>
+  
+  <!-- Company Name -->
+  <text x="35" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
+    <tspan fill="#1e293b">Startup</tspan><tspan fill="#ec4899" font-style="italic">X</tspan>
+  </text>
+</svg>

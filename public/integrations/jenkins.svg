@@ -1,0 +1,23 @@
+<svg width="60" height="40" viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Jenkins Logo -->
+  <rect width="60" height="40" rx="4" fill="#D24939"/>
+  <g transform="translate(30, 20)">
+    <!-- Jenkins butler face -->
+    <g transform="scale(0.8)">
+      <!-- Head -->
+      <ellipse cx="0" cy="-2" rx="8" ry="10" fill="#F0D6B7"/>
+      <!-- Hat -->
+      <path d="M-8 -10c0 -2 1.8 -4 8 -4s8 2 8 4v3h-16v-3z" fill="#335061"/>
+      <rect x="-10" y="-7" width="20" height="2" fill="#335061"/>
+      <!-- Eyes -->
+      <circle cx="-3" cy="-2" r="1" fill="#000000"/>
+      <circle cx="3" cy="-2" r="1" fill="#000000"/>
+      <!-- Nose -->
+      <path d="M-1 0h2v2h-2v-2z" fill="#D4967D"/>
+      <!-- Mustache -->
+      <path d="M-6 2c0 -1 2 -2 3 -2h6c1 0 3 1 3 2s-2 2 -3 2h-6c-1 0 -3 -1 -3 -2z" fill="#666666"/>
+      <!-- Tie -->
+      <path d="M-2 8v6l2 2l2 -2v-6h-4z" fill="#CC0000"/>
+    </g>
+  </g>
+</svg>
