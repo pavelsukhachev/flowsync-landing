@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flowsync-landing/static/css/main.986e0f53.css",
+    "main.js": "/flowsync-landing/static/js/main.7a2e7016.js",
+    "static/js/453.3d4ff251.chunk.js": "/flowsync-landing/static/js/453.3d4ff251.chunk.js",
+    "index.html": "/flowsync-landing/index.html",
+    "main.986e0f53.css.map": "/flowsync-landing/static/css/main.986e0f53.css.map",
+    "main.7a2e7016.js.map": "/flowsync-landing/static/js/main.7a2e7016.js.map",
+    "453.3d4ff251.chunk.js.map": "/flowsync-landing/static/js/453.3d4ff251.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.986e0f53.css",
+    "static/js/main.7a2e7016.js"
+  ]
+}

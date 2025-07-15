@@ -1,0 +1,10 @@
+<svg width="60" height="40" viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Microsoft Azure Logo -->
+  <rect width="60" height="40" rx="4" fill="#0078D4"/>
+  <g transform="translate(30, 20)">
+    <!-- Azure "A" shape -->
+    <path d="M-8 10l6.5 -19.5c0.2 -0.6 0.8 -0.6 1 0l6.5 19.5h-3.2l-1.8 -5.5h-4l-1.8 5.5h-3.2zm5.5 -8h2.5l-1.25 -4l-1.25 4z" fill="#ffffff" transform="scale(0.8)"/>
+    <!-- Azure swoosh/wave -->
+    <path d="M-12 8c0 0 3 -2 8 -2s8 2 12 2s8 -2 8 -2v6c0 0 -4 2 -8 2s-7 -2 -12 -2s-8 2 -8 2v-6z" fill="#ffffff" opacity="0.3"/>
+  </g>
+</svg>

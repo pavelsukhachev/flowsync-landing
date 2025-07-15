@@ -1,0 +1,16 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- TrustRadius Logo - Blue gradient with TR icon -->
+  <defs>
+    <linearGradient id="trustRadiusGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563EB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E40AF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="8" fill="url(#trustRadiusGradient)"/>
+  <g fill="white">
+    <!-- T -->
+    <path d="M8 12h14v3h-5.5v13h-3V15H8v-3z"/>
+    <!-- R -->
+    <path d="M23 12h5c2.76 0 5 2.24 5 5 0 1.85-1.01 3.47-2.5 4.33L34 28h-3.5l-3.15-6H26v6h-3V12zm3 3v5h2c1.1 0 2-.9 2-2s-.9-2-2-2h-2z"/>
+  </g>
+</svg>
